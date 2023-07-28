@@ -1,3 +1,5 @@
-from funcs import addition
+from funcs import addition, sub
 
 print(addition())
+
+print(sub())
